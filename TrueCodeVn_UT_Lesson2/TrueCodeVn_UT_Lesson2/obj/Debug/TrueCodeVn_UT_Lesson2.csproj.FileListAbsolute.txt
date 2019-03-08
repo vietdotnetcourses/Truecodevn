@@ -1,7 +1,0 @@
-D:\Projects\TrueCodeVn\LessonDemos\TrueCodeVn_UT_Lesson2\TrueCodeVn_UT_Lesson2\bin\Debug\TrueCodeVn_UT_Lesson2.exe.config
-D:\Projects\TrueCodeVn\LessonDemos\TrueCodeVn_UT_Lesson2\TrueCodeVn_UT_Lesson2\bin\Debug\TrueCodeVn_UT_Lesson2.exe
-D:\Projects\TrueCodeVn\LessonDemos\TrueCodeVn_UT_Lesson2\TrueCodeVn_UT_Lesson2\bin\Debug\TrueCodeVn_UT_Lesson2.pdb
-D:\Projects\TrueCodeVn\LessonDemos\TrueCodeVn_UT_Lesson2\TrueCodeVn_UT_Lesson2\obj\Debug\TrueCodeVn_UT_Lesson2.csprojAssemblyReference.cache
-D:\Projects\TrueCodeVn\LessonDemos\TrueCodeVn_UT_Lesson2\TrueCodeVn_UT_Lesson2\obj\Debug\TrueCodeVn_UT_Lesson2.csproj.CoreCompileInputs.cache
-D:\Projects\TrueCodeVn\LessonDemos\TrueCodeVn_UT_Lesson2\TrueCodeVn_UT_Lesson2\obj\Debug\TrueCodeVn_UT_Lesson2.exe
-D:\Projects\TrueCodeVn\LessonDemos\TrueCodeVn_UT_Lesson2\TrueCodeVn_UT_Lesson2\obj\Debug\TrueCodeVn_UT_Lesson2.pdb
